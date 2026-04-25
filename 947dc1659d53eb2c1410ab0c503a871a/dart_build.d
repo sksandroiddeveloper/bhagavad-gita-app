@@ -1,0 +1,1 @@
+ /Users/darshansingh/Downloads/gita_app/build/947dc1659d53eb2c1410ab0c503a871a/dart_build_result.json:  /Users/darshansingh/Downloads/gita_app/.dart_tool/package_config.json /Users/darshansingh/Downloads/gita_app/pubspec.yaml /Users/darshansingh/development/flutter/bin/cache/dart-sdk/version
